@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a5a6e444.css",
+    "main.js": "/static/js/main.025e1052.js",
+    "static/media/background.jpg": "/static/media/background.9098f5cda613eae2c3b7.jpg",
+    "static/media/dark_prismarine.png": "/static/media/dark_prismarine.cd905e3f8b5c5d16c19b.png",
+    "static/media/end_stone_brick_stairs.png": "/static/media/end_stone_brick_stairs.71e945c72ae2c4991157.png",
+    "static/media/end_stone_bricks.png": "/static/media/end_stone_bricks.a2a6915a2912a1cd0db8.png",
+    "static/media/polished_andesite.png": "/static/media/polished_andesite.8618d8373139648ae0f2.png",
+    "static/media/end_stone_brick_slab.png": "/static/media/end_stone_brick_slab.978fbfcaef73b237bafe.png",
+    "static/media/cobblestone_slab.png": "/static/media/cobblestone_slab.07026bd8ffe25fb4ce45.png",
+    "static/media/blue_terracotta.png": "/static/media/blue_terracotta.4557813bb19f21256643.png",
+    "index.html": "/index.html",
+    "main.a5a6e444.css.map": "/static/css/main.a5a6e444.css.map",
+    "main.025e1052.js.map": "/static/js/main.025e1052.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5a6e444.css",
+    "static/js/main.025e1052.js"
+  ]
+}
