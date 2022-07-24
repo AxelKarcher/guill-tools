@@ -1,11 +1,19 @@
 $navWidth: 250px;
 
+.defaultBg {
+  background: url(./assets/background.jpg);
+  background-size: cover;
+}
+
+.guillBg {
+  background: url(./assets/guill.jpg);
+}
+
 #appContainer {
   user-select: none;
   height: 100vh;
   display: flex;
-  background: url(./assets/background.jpg);
-  background-size: cover;
+  transition: background 1s;
 
   #body {
     width: calc(100vw - $navWidth);
@@ -28,10 +36,10 @@ $navWidth: 250px;
         box-shadow: 0px 0px 15px black;
         border: 5px solid gray;
         transition: transform 0.1s;
-        cursor: pointer;
 
         &:hover {
           transform: scale(0.95);
+          cursor: pointer;
         }
 
         &:active {
