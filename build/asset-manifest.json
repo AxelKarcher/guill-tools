@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.35f92343.css",
+    "main.css": "/static/css/main.9f0149e9.css",
     "main.js": "/static/js/main.4e78eff4.js",
     "static/media/background.jpg": "/static/media/background.9098f5cda613eae2c3b7.jpg",
-    "static/media/guill.jpg": "/static/media/guill.aa4f5dd28142acb1caea.jpg",
+    "static/media/guill.jpg": "/static/media/guill.12b0e6fe2cc403545eb3.jpg",
     "static/media/dark_prismarine.png": "/static/media/dark_prismarine.cd905e3f8b5c5d16c19b.png",
     "static/media/end_stone_brick_stairs.png": "/static/media/end_stone_brick_stairs.71e945c72ae2c4991157.png",
     "static/media/end_stone_bricks.png": "/static/media/end_stone_bricks.a2a6915a2912a1cd0db8.png",
@@ -12,11 +12,11 @@
     "static/media/cobblestone_slab.png": "/static/media/cobblestone_slab.07026bd8ffe25fb4ce45.png",
     "static/media/blue_terracotta.png": "/static/media/blue_terracotta.4557813bb19f21256643.png",
     "index.html": "/index.html",
-    "main.35f92343.css.map": "/static/css/main.35f92343.css.map",
+    "main.9f0149e9.css.map": "/static/css/main.9f0149e9.css.map",
     "main.4e78eff4.js.map": "/static/js/main.4e78eff4.js.map"
   },
   "entrypoints": [
-    "static/css/main.35f92343.css",
+    "static/css/main.9f0149e9.css",
     "static/js/main.4e78eff4.js"
   ]
 }

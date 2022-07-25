@@ -48,13 +48,24 @@ $navWidth: 250px;
     }
   }
 
-  #aternosLogo {
-    height: 75px;
+  #sendIcon {
+    height: 55px;
+    width: 55px;
     transition: transform 0.3s;
     cursor: pointer;
 
     &:hover {
-      transform: rotate(180deg);
+      transform: rotate(30deg);
+    }
+  }
+
+  #aternosLogo {
+    height: 50px;
+    transition: transform 0.3s;
+    cursor: pointer;
+
+    &:hover {
+      transform: rotate(30deg);
     }
   }
 }

@@ -1,0 +1,22 @@
+#toggleContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: lightgray;
+  border-radius: 25px;
+  box-sizing: border-box;
+  padding: 10px;
+
+  .toggleElem {
+    border-radius: 25px;
+    box-sizing: border-box;
+    padding: 5px 10px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    border: 1px solid lightgray;
+
+    &:hover {
+      border-color: white;
+    }
+  }
+}
