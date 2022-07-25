@@ -22,7 +22,7 @@ const Modal = ({isOn, handleClose}) => {
 
   useEffect(() => {
     if (isConfirmText) {setTimeout(() => {handleClose()}, 2000)}
-  }, [isConfirmText])
+  }, [isConfirmText, handleClose])
 
   const sendMail = async () => {
     setLoading(true)
