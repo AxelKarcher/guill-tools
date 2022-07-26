@@ -66,7 +66,7 @@ const Modal = ({isOn, handleClose}) => {
               style={{width: 500, marginBottom: 20}}
               value={msg}
               action={(e) => setMsg(e)}
-              label='Message (multi-lignes)'
+              label='Message'
               disabled={loading}
             />
             {

@@ -1,9 +1,7 @@
 import {useState, useEffect} from 'react'
 
 import './App.scss'
-import List from './components/List/List'
-
-// remplacer liste de droite par boxes pour trier
+import LeftPanel from './components/LeftPanel/LeftPanel'
 
 const items = [
   {name: 'end_stone_bricks'},
@@ -43,10 +41,8 @@ const App = () => {
 
   return (
     <div id='appContainer' className={isDefaultBg ? 'defaultBg' : 'guillBg'}>
-      <List
-        items={items}
+      <LeftPanel
         easterClick={() => setListClickCount(listClickCount + 1)}
-        itemClick={getCommand}
         slabsSetter={setSlabsStatus}
         slabsStatus={slabsStatus}
       />
